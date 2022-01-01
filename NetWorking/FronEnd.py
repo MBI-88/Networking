@@ -369,8 +369,7 @@ class NetworkingFrontEnd():
 
     def credict(self):
         return messagebox.showinfo('', message="""
-        Copyright ©
-        Maked: 20/09/2021
+        Created: 20/09/2021
         Autor: MBI
         Lincense: Open source
         Contact: maikel8807@gmail.com
